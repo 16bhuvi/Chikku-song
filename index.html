@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chikku's Songs</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="panel hero">
+      <div class="hero-copy">
+        <p class="eyebrow">A quiet little music vault</p>
+        <h1>Chikku's Songs</h1>
+        <p class="lede">Every song here is a little love letter, wrapped in moonlight and meant only for your heart.</p>
+      </div>
+
+      <div class="hero-tools">
+        <label class="field field--search" for="searchBar">
+          <span>Search the library</span>
+          <input type="search" id="searchBar" name="searchBar" placeholder="Search by title, artist, filename, or cover" autocomplete="off">
+        </label>
+
+        <div class="hero-actions">
+          <button type="button" id="themeToggle" class="button button--secondary">Switch to light theme</button>
+          <div id="libraryStatus" class="status-pill" aria-live="polite">Ready to play.</div>
+        </div>
+      </div>
+    </header>
+
+    <main class="panel library" aria-labelledby="libraryTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Playback</p>
+          <h2 id="libraryTitle">Song library</h2>
+        </div>
+        <p id="songCount" class="song-count">0 tracks in the library</p>
+      </div>
+
+      <section id="songList" class="song-grid" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>© Chikku's Songs · Personal music library</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Tu jo pass",
+    "artist": "Akshat",
+    "filename": "tu.mp3",
+    "cover": "cover11.jpg"
+  },
+  {
+    "title": "Sukoon mila",
+    "artist": "Akshat",
+    "filename": "sukoon.mp3",
+    "cover": "cover12.jpg"
+  },
+  {
+    "title": "Hasee ban gaye",
+    "artist": "Akshat",
+    "filename": "hasee.mp3",
+    "cover": "cover1.jpg"
+  },
+  {
+    "title": "I want you",
+    "artist": "Akshat",
+    "filename": "i.mp3",
+    "cover": "cover2.png"
+  },
+  {
+    "title": "Kasoor",
+    "artist": "Akshat",
+    "filename": "kasoor.mp3",
+    "cover": "cover3.jpg"
+  },
+  {
+    "title": "Le chalu",
+    "artist": "Akshat",
+    "filename": "le.mp3",
+    "cover": "cover4.jpg"
+  },
+  {
+    "title": "Maula mere",
+    "artist": "Akshat",
+    "filename": "maula.mp3",
+    "cover": "cover5.jpg"
+  },
+  {
+    "title": "Yaha koi nahi",
+    "artist": "Akshat",
+    "filename": "yaha.mp3",
+    "cover": "cover6.jpg"
+  },
+  {
+    "title": "Need you",
+    "artist": "Akshat",
+    "filename": "need.mp3",
+    "cover": "cover7.jpg"
+  },
+  {
+    "title": "Yeh tune kya kiya",
+    "artist": "Akshat",
+    "filename": "yeh.mp3",
+    "cover": "cover8.jpg"
+  },
+  {
+    "title": "Bade ache lagte h",
+    "artist": "Akshat",
+    "filename": "bade.mp3",
+    "cover": "cover9.jpg"
+  },
+  {
+    "title": "Yaad rakhna",
+    "artist": "Akshat",
+    "filename": "yaad.mp3",
+    "cover": "cover10.jpg"
+  },
+  {
+    "title": "hi",
+    "artist": "me",
+    "filename": "bade.mp3",
+    "cover": "cover12.jpg"
+  }
+]
